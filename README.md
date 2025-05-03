@@ -40,7 +40,7 @@ here is ai generated tutorial
 
 Welcome to the Raftar Selfbot V2! This guide will help you set up the bot and provide descriptions of all available commands.
 
-1. **Python 3.8+ (except 3.13+)**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+1. **Python 3.8+ (won't work in 3.12+)**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 2. **pip**: Ensure you have `pip` installed for managing Python packages.
 
 
