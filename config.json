@@ -1,0 +1,12 @@
+{
+    "prefix": ".",
+    "api_key": "",
+    "user_token": "YOUR_TOKEN",
+    "API_TOKEN": "",
+    "upi_id": "",
+    "unplash_api": "",
+    "webhook": "YOUR_WEBHOOK_URL",
+    "clear_enabled": false,
+    "clear_interval": 15,
+    "sleep_interval": 3
+}
